@@ -1,0 +1,1 @@
+A lightweight, pure CSS sidebar menu with a glassmorphism aesthetic. Toggle the navigation drawer open/closed using a hidden checkbox hack — no JavaScript required. Includes animated menu items, social media icons, and a full-viewport background image.
